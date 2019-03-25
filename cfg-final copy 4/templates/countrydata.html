@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Crisis Data</title>
+</head>
+<body>
+{% from "_formhelpers.html" import render_field %}
+    <h1>About {{country}}</h1>
+
+    <form action="/country" method="post">
+	<dl>
+        {{ render_field(form.country) }}
+        {{ render_field(form.crisis) }}
+    </dl>
+    <p><input type=submit value=Submit>
+
+    </form>
+
+</body>
+</html>

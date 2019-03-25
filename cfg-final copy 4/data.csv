@@ -1,0 +1,535 @@
+crisis_index,crisis_name,crisis_iso3,figure_name,figure_source,figure_value,figure_date,figure_url
+0,Afghanistan,AFG,People in Need,OCHA,6300000,04/12/2018,https://m.reliefweb.int/report/2900688
+0,Afghanistan,AFG,People Targeted for Assistance,OCHA,4500000,04/12/2018,https://m.reliefweb.int/report/2900688
+0,Afghanistan,AFG,Children in Need,UNICEF,2400000,18/07/2018,https://m.reliefweb.int/report/2802889
+0,Afghanistan,AFG,People in Food Crisis/Emergency (IPC phase 3+),IPC,9838408,30/09/2018,https://m.reliefweb.int/report/2851838
+0,Afghanistan,AFG,Undocumented Afghan Returnees from Iran (per year),IOM,757292,22/12/2018,https://m.reliefweb.int/report/2931064
+0,Afghanistan,AFG,Undocumented Afghan Returnees from Pakistan (per year),IOM,32027,22/12/2018,https://m.reliefweb.int/report/2931064
+0,Afghanistan,AFG,Registered Afghan Returnees from Pakistan (per year),UNHCR,14017,01/12/2018,https://m.reliefweb.int/report/2906248
+0,Afghanistan,AFG,Conflict-Induced Displacements (per year),OCHA,173000,22/07/2018,https://m.reliefweb.int/report/2750099
+0,Afghanistan,AFG,Returnees from Pakistan (per year),OCHA,31500,22/07/2018,https://m.reliefweb.int/report/2750099
+0,Afghanistan,AFG,Registered Afghan Refugees in Pakistan,UNHCR,1396904,03/11/2018,https://m.reliefweb.int/report/2864323
+0,Afghanistan,AFG,Afghan Refugees in Turkey,UNHCR,170000,30/11/2018,https://m.reliefweb.int/report/2909543
+0,Afghanistan,AFG,Civilians Killed and Injured (per year),UNAMA,8050,30/09/2018,https://m.reliefweb.int/report/2824484
+0,Afghanistan,AFG,Civilians Killed (per year),UNAMA,2798,30/09/2018,https://m.reliefweb.int/report/2824484
+0,Afghanistan,AFG,Civilians Injured (per year),UNAMA,5252,30/09/2018,https://m.reliefweb.int/report/2824484
+0,Afghanistan,AFG,"KKA Incidents against Aid Workers (Killed, Kidnapped and Arrested per year)",Insecurity Insight,30,31/10/2018,https://m.reliefweb.int/report/2879178
+0,Afghanistan,AFG,Aid Workers Killed (per year),Insecurity Insight,12,31/10/2018,https://m.reliefweb.int/report/2879178
+0,Afghanistan,AFG,Aid Workers Kidnapped (per year),Insecurity Insight,16,31/10/2018,https://m.reliefweb.int/report/2879178
+0,Afghanistan,AFG,Aid Workers Arrested (per year),Insecurity Insight,2,31/10/2018,https://m.reliefweb.int/report/2879178
+0,Afghanistan,AFG,New IDPs by Conflict (per year),IDMC,474000,31/12/2017,https://m.reliefweb.int/report/2603634
+0,Afghanistan,AFG,New IDPs by Natural Disasters (per year),IDMC,27000,31/12/2017,https://m.reliefweb.int/report/2603634
+1,Bangladesh,BGD,Rohingya Refugees in Need,ISCG,1300000,2018-16-03,https://m.reliefweb.int/report/2515639
+1,Bangladesh,BGD,People Targeted for Assistance in Cox's Bazar,ISCG,1300000,2018-16-03,https://m.reliefweb.int/report/2515639
+1,Bangladesh,BGD,Rohingya Children in Need,UNICEF,703000,19/05/2018,https://m.reliefweb.int/report/2802884
+1,Bangladesh,BGD,Newly Arrived Children from Myanmar in Need of Humanitarian Assistance,UNICEF,392580,27/11/2018,https://m.reliefweb.int/report/2902918
+1,Bangladesh,BGD,Total Rohingya Refugees in Cox's Bazar,ISCG,907952,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Kutupalong RC in Cox's Bazar,ISCG,17974,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Kutupalong Expansion Site in Cox's Bazar,ISCG,609403,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Camp 24 (Leda) in Cox's Bazar,ISCG,33544,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Camp 26 (Nayapara) in Cox's Bazar,ISCG,41037,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Camp 27 (Jadimura) in Cox's Bazar,ISCG,14269,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Camp 25 (Ali Khali) in Cox's Bazar,ISCG,9511,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Camp 14 (Hakimpara) in Cox's Bazar,ISCG,31850,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Camp 15 (Jamtoli) in Cox's Bazar,ISCG,49430,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Camp 22 (Unchiprang) in Cox's Bazar,ISCG,22194,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Camp 16 (Bagghona/Potibonia) in Cox's Bazar,ISCG,21640,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Camp 21 (Chakmarkul) in Cox's Bazar,ISCG,12253,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Camp 23 (Shamlapur) in Cox's Bazar,ISCG,10963,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Host Communities in Ukhia in Cox's Bazar,ISCG,2492,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Host Communities in Teknaf in Cox's Bazar,ISCG,4462,12/12/2018,https://m.reliefweb.int/report/2917643
+1,Bangladesh,BGD,Refugees in Host Communities in Cox's Bazar Sadar and Ramu,ISCG,6750,10/10/2018,https://m.reliefweb.int/report/2858018
+1,Bangladesh,BGD,Refugee Households Assisted with WFP Food Aid in Cox's Bazar,WFP,145000,30/11/2018,https://m.reliefweb.int/report/2921959
+2,Burundi,BDI,People in Need,OCHA,1800000,04/12/2018,https://m.reliefweb.int/report/2900688
+2,Burundi,BDI,People Targeted for Assistance,OCHA,710000,04/12/2018,https://m.reliefweb.int/report/2900688
+2,Burundi,BDI,Children in Need,UNICEF,2000000,29/12/2017,https://m.reliefweb.int/report/2438714
+2,Burundi,BDI,Burundian Refugees & Asylum-Seekers,UNHCR,384376,30/11/2018,http://data2.unhcr.org/en/situations/burundi
+2,Burundi,BDI,Burundian Refugees in Tanzania (Post-Apr 2015),UNHCR,211449,30/11/2018,http://data2.unhcr.org/en/situations/burundi/location/2030
+2,Burundi,BDI,Burundian Refugee Arrivals in Tanzania (per year),UNHCR,1774,30/11/2018,https://m.reliefweb.int/report/2923289
+2,Burundi,BDI,Voluntary Assisted Returns from Tanzania (since 7 Sep 2017),UNHCR,52260,30/09/2018,https://m.reliefweb.int/report/2854468
+2,Burundi,BDI,Voluntary Assisted Returns from Tanzania since 7 Sep 2017 (per year),UNHCR,38390,30/09/2018,https://m.reliefweb.int/report/2854468
+2,Burundi,BDI,Burundian Refugees in DRC,UNHCR,42309,30/11/2018,https://m.reliefweb.int/report/2913833
+2,Burundi,BDI,Burundian Refugee Arrivals in DRC (per year),UNHCR,4540,30/06/2018,https://m.reliefweb.int/report/2715904
+2,Burundi,BDI,Burundian Refugees in Rwanda (Post-Influx),UNHCR,68861,30/11/2018,https://m.reliefweb.int/report/2914143
+2,Burundi,BDI,Burundian Refugees & Asylum-Seekers in Uganda,UNHCR,31518,24/10/2018,https://m.reliefweb.int/report/2852683
+2,Burundi,BDI,Burundian Refugees & Asylum seekers in Kenya,UNHCR,13165,31/07/2018,https://m.reliefweb.int/report/2577639
+2,Burundi,BDI,IDPs,IOM,151520,30/09/2018,https://m.reliefweb.int/report/2836123
+2,Burundi,BDI,DRC Refugees in Burundi,UNHCR,75297,30/11/2018,https://m.reliefweb.int/report/2931379
+2,Burundi,BDI,People in Food Crisis/Emergency (IPC Phase 3+),IPC,1457529,31/03/2018,https://m.reliefweb.int/report/2606209
+2,Burundi,BDI,People Assisted through WFP Food Assistance (per month),WFP,604870,30/09/2018,https://m.reliefweb.int/report/2860138
+2,Burundi,BDI,New IDPs by Conflict (per year),IDMC,14000,31/12/2017,https://m.reliefweb.int/report/2603634
+2,Burundi,BDI,New IDPs by Natural Disasters (per year),IDMC,11000,31/12/2017,https://m.reliefweb.int/report/2603634
+3,Cameroon,CMR,People in Need,OCHA,4300000,04/12/2018,https://m.reliefweb.int/report/2900688
+3,Cameroon,CMR,People Targeted for Assistance,OCHA,2300000,04/12/2018,https://m.reliefweb.int/report/2900688
+3,Cameroon,CMR,Children in Need,UNICEF,1810000,05/01/2018,https://m.reliefweb.int/report/2438864
+3,Cameroon,CMR,IDPs due to the Crisis in North-West & South-West regions,OCHA,437500,30/11/2018,https://m.reliefweb.int/report/2900228
+3,Cameroon,CMR,Refugees & Asylum-Seekers in Cameroon,UNHCR,372542,31/10/2018,https://data2.unhcr.org/en/country/cmr
+3,Cameroon,CMR,CAR Refugees in Cameroon,UNHCR,267813,31/10/2018,https://m.reliefweb.int/report/2878513
+3,Cameroon,CMR,Nigerian Refugees in Cameroon,UNHCR,101404,31/10/2018,https://m.reliefweb.int/report/2878513
+3,Cameroon,CMR,Cameroonian Refugees in Nigeria,UNHCR,32601,30/11/2018,https://m.reliefweb.int/report/2929739
+3,Cameroon,CMR,Total Cholera Cases,WHO,990,19/12/2018,https://m.reliefweb.int/report/2934454
+3,Cameroon,CMR,Confirmed Cholera Cases,WHO,77,19/12/2018,https://m.reliefweb.int/report/2934454
+3,Cameroon,CMR,Cholera Deaths,WHO,58,19/12/2018,https://m.reliefweb.int/report/2934454
+3,Cameroon,CMR,People Living in Lake Chad Basin Crisis Area,OCHA,4000000,22/10/2018,https://m.reliefweb.int/report/2843698
+3,Cameroon,CMR,Children with Severe Acute Malnutrition in Lake Chad Basin Crisis Area,OCHA,24000,22/10/2018,https://m.reliefweb.int/report/2843698
+3,Cameroon,CMR,People at Food Crisis/Emergency (IPC phase 3+) in the Lake Chad Basin Crisis Area,OCHA,1500000,22/10/2018,https://m.reliefweb.int/report/2843698
+3,Cameroon,CMR,IDPs,IOM,227581,24/09/2018,https://m.reliefweb.int/report/2800569
+3,Cameroon,CMR,Returnees,IOM,92238,24/09/2018,https://m.reliefweb.int/report/2800569
+3,Cameroon,CMR,Unregistered Refugees,IOM,39403,24/09/2018,https://m.reliefweb.int/report/2800569
+3,Cameroon,CMR,People Assisted with WFP Food Assistance (per month),WFP,322200,31/07/2018,https://m.reliefweb.int/report/2773104
+3,Cameroon,CMR,New IDPs by Conflict (per year),IDMC,119000,31/12/2017,https://m.reliefweb.int/report/2603634
+4,Central African Republic,CAF,People in Need,OCHA,2900000,19/12/2018,https://m.reliefweb.int/report/2922134
+4,Central African Republic,CAF,People Targeted for Assistance,OCHA,1700000,19/12/2018,https://m.reliefweb.int/report/2922134
+4,Central African Republic,CAF,People in Food Crisis/Emergency (IPC Phase 3+),IPC,1898963,31/08/2018,https://m.reliefweb.int/report/2850448
+4,Central African Republic,CAF,Children in Need,UNICEF,1300000,05/01/2018,https://m.reliefweb.int/report/2438879
+4,Central African Republic,CAF,IDPs,UNHCR,614679,31/07/2018,https://m.reliefweb.int/report/2761079
+4,Central African Republic,CAF,CAR Refugees in the Region,UNHCR,576862,30/11/2018,http://data2.unhcr.org/en/situations/car
+4,Central African Republic,CAF,CAR Refugees in Cameroon,UNHCR,267813,31/10/2018,https://m.reliefweb.int/report/2878513
+4,Central African Republic,CAF,CAR Refugees & Asulym-Seekers in Chad,UNHCR,102741,31/10/2018,https://m.reliefweb.int/report/2869263
+4,Central African Republic,CAF,CAR Refugees in DRC,UNHCR,171966,30/11/2018,https://m.reliefweb.int/report/2913833
+4,Central African Republic,CAF,CAR Refugees in South Sudan,UNHCR,1999,31/10/2018,https://m.reliefweb.int/report/2893508
+4,Central African Republic,CAF,CAR Refugees in Republic of Congo,UNHCR,32223,31/01/2018,https://m.reliefweb.int/report/2490799
+4,Central African Republic,CAF,S. Sudanese Refugees in CAR,UNHCR,2571,31/10/2018,https://m.reliefweb.int/report/2882088
+4,Central African Republic,CAF,S. Sudanese Arrivals in CAR (Cumulative per year),UNHCR,323,30/09/2018,https://m.reliefweb.int/report/2899668
+4,Central African Republic,CAF,DRC Refugees & Asylum-Seekers in CAR,UNHCR,1787,31/10/2018,https://m.reliefweb.int/report/2878188
+4,Central African Republic,CAF,"KKA Incidents against Aid Workers (Killed, Kidnapped and Arrested per year)",Insecurity Insight,11,31/10/2018,https://m.reliefweb.int/report/2879178
+4,Central African Republic,CAF,Aid Workers Killed (per year),Insecurity Insight,8,31/10/2018,https://m.reliefweb.int/report/2879178
+4,Central African Republic,CAF,Aid Workers Kidnapped (per month),Insecurity Insight,3,31/10/2018,https://m.reliefweb.int/report/2879178
+4,Central African Republic,CAF,Aid Workers Arrested (per month),Insecurity Insight,0,31/10/2018,https://m.reliefweb.int/report/2879178
+4,Central African Republic,CAF,People Assisted with WFP Food Assistance (per month),WFP,539954,31/10/2018,https://m.reliefweb.int/report/2897298
+4,Central African Republic,CAF,New IDPs by Conflict (per year),IDMC,539000,31/12/2017,https://m.reliefweb.int/report/2603634
+4,Central African Republic,CAF,New IDPs by Natural Disasters (per year),IDMC,2900,31/12/2017,https://m.reliefweb.int/report/2603634
+5,Chad,TCD,People in Need,OCHA,4100000,04/12/2018,https://m.reliefweb.int/report/2900688
+5,Chad,TCD,People Targeted for Assistance,OCHA,1700000,04/12/2018,https://m.reliefweb.int/report/2900688
+5,Chad,TCD,Children in Need,UNICEF,2500000,05/01/2018,https://m.reliefweb.int/report/2438889
+5,Chad,TCD,IDPs & Returnees,UNHCR,162755,31/10/2018,https://m.reliefweb.int/report/2869263
+5,Chad,TCD,Refugees & Asylum-Seekers in Chad,UNHCR,452966,31/10/2018,https://m.reliefweb.int/report/2869263
+5,Chad,TCD,Sudanese Refugees & Asylum-Seekers in Chad,UNHCR,337704,31/10/2018,https://m.reliefweb.int/report/2869263
+5,Chad,TCD,CAR Refugees & Asulym-Seekers in Chad,UNHCR,102741,31/10/2018,https://m.reliefweb.int/report/2869263
+5,Chad,TCD,Nigerian Refugees & Asylum-Seekers in Chad,UNHCR,11298,31/10/2018,https://m.reliefweb.int/report/2869263
+5,Chad,TCD,People in Food Crisis/Emergency (IPC phase 3+),Government of Chad,623982,12/03/2018,https://m.reliefweb.int/report/2557769
+5,Chad,TCD,Displacement due to Nigeria Crisis: Refugees in Chad (since Jan 2015),OCHA,11009,26/09/2018,https://m.reliefweb.int/report/2839723
+5,Chad,TCD,People Living in Lake Chad Basin Crisis Area,OCHA,518000,22/10/2018,https://m.reliefweb.int/report/2843698
+5,Chad,TCD,Children with Severe Acute Malnutrition in Lake Chad Basin Crisis Area,OCHA,22000,22/10/2018,https://m.reliefweb.int/report/2843698
+5,Chad,TCD,People at Food Crisis/Emergency (IPC phase 3+) in the Lake Chad Basin Crisis Area,OCHA,159000,22/10/2018,https://m.reliefweb.int/report/2843698
+5,Chad,TCD,Total Measles Cases (since 1 Jan 2018),WHO,5202,26/12/2018,https://m.reliefweb.int/report/2934454
+5,Chad,TCD,Measles Confirmed Cases (since 1 Jan 2018),WHO,356,26/12/2018,https://m.reliefweb.int/report/2934454
+5,Chad,TCD,Total Measles Deaths (since 1 Jan 2018),WHO,95,26/12/2018,https://m.reliefweb.int/report/2934454
+5,Chad,TCD,Children under 5 with Severe Acute Malnutrition,UNICEF,362682,31/10/2018,https://m.reliefweb.int/report/2934484
+5,Chad,TCD,People Assisted with WFP Food Assistance (per month),WFP,1083689,30/06/2018,https://m.reliefweb.int/report/2717379
+5,Chad,TCD,New IDPs by Conflict (per year),IDMC,5800,31/12/2017,https://m.reliefweb.int/report/2603634
+7,Democratic Republic of the Congo,COD,People in Need,OCHA,12800000,04/12/2018,https://m.reliefweb.int/report/2900688
+7,Democratic Republic of the Congo,COD,People Targeted for Assistance,OCHA,9000000,04/12/2018,https://m.reliefweb.int/report/2900688
+7,Democratic Republic of the Congo,COD,Chidren in Need,UNICEF,7800000,05/01/2018,https://m.reliefweb.int/report/2438909
+7,Democratic Republic of the Congo,COD,People in Food Crisis/Emergency (IPC phase 3+),IPC,13141056,31/08/2018,https://m.reliefweb.int/report/2862833
+7,Democratic Republic of the Congo,COD,IDPs,OCHA,4490000,31/12/2017,https://m.reliefweb.int/report/2462489
+7,Democratic Republic of the Congo,COD,Refugees & Asylum-Seekers in DRC,UNHCR,533387,30/11/2018,https://m.reliefweb.int/report/2913833
+7,Democratic Republic of the Congo,COD,Rwandan Refugees in DRC,UNHCR,217499,30/11/2018,https://m.reliefweb.int/report/2913833
+7,Democratic Republic of the Congo,COD,CAR Refugees in DRC,UNHCR,171966,30/11/2018,https://m.reliefweb.int/report/2913833
+7,Democratic Republic of the Congo,COD,Rwandan Refugees Repatriated from DRC (cumulative per year),UNHCR,2619,30/09/2018,https://m.reliefweb.int/report/2849188
+7,Democratic Republic of the Congo,COD,Burundian Refugees in DRC,UNHCR,42309,30/11/2018,https://m.reliefweb.int/report/2913833
+7,Democratic Republic of the Congo,COD,Burundian Refugee Arrivals (per year),UNHCR,4540,30/06/2018,https://m.reliefweb.int/report/2715904
+7,Democratic Republic of the Congo,COD,S. Sudanese Refugees in DRC,UNHCR,95438,30/11/2018,https://m.reliefweb.int/report/2913833
+7,Democratic Republic of the Congo,COD,S. Sudanese Arrivals in DRC (Cumulative per year),UNHCR,4969,30/09/2018,https://m.reliefweb.int/report/2899668
+7,Democratic Republic of the Congo,COD,DRC Refugees,UNHCR,800330,30/11/2018,https://m.reliefweb.int/report/2931379
+7,Democratic Republic of the Congo,COD,New Arrivals from DRC in Countries of Asylum (per year),UNHCR,148975,31/10/2018,https://m.reliefweb.int/report/2878188
+7,Democratic Republic of the Congo,COD,New Arrivals from DRC in Countries of Asylum (per month),UNHCR,8340,31/10/2018,https://m.reliefweb.int/report/2878188
+7,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Uganda,UNHCR,299850,30/11/2018,https://m.reliefweb.int/report/2931379
+7,Democratic Republic of the Congo,COD,DRC Refugees in Tanzania,UNHCR,84255,30/11/2018,https://m.reliefweb.int/report/2931379
+7,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Rwanda,UNHCR,80755,30/11/2018,https://m.reliefweb.int/report/2931379
+7,Democratic Republic of the Congo,COD,DRC Refugees in Burundi,UNHCR,75297,30/11/2018,https://m.reliefweb.int/report/2931379
+7,Democratic Republic of the Congo,COD,Biometrically Registered DRC Refugees in Angola,UNHCR,36397,03/12/2018,https://m.reliefweb.int/report/2902043
+7,Democratic Republic of the Congo,COD,DRC Refugees in Zambia,UNHCR,42308,30/11/2018,https://m.reliefweb.int/report/2918888
+7,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Kenya,UNHCR,40709,31/10/2018,https://m.reliefweb.int/report/2878188
+7,Democratic Republic of the Congo,COD,DRC Refugees in Southern Africa,UNHCR,107157,30/11/2018,https://m.reliefweb.int/report/2931379
+7,Democratic Republic of the Congo,COD,DRC Refugees in Republic of Congo,UNHCR,15715,30/11/2018,https://m.reliefweb.int/report/2931379
+7,Democratic Republic of the Congo,COD,DRC Refugees in South Sudan,UNHCR,15683,31/10/2018,https://m.reliefweb.int/report/2878188
+7,Democratic Republic of the Congo,COD,DRC Refugees in Zimbabwe,UNHCR,9904,31/10/2018,https://m.reliefweb.int/report/2878188
+7,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in CAR,UNHCR,1787,31/10/2018,https://m.reliefweb.int/report/2878188
+7,Democratic Republic of the Congo,COD,Total Ebola Cases (since May 2018),WHO,591,27/12/2018,http://www.who.int/ebola/situation
+7,Democratic Republic of the Congo,COD,Ebola Confirmed Cases (since May 2018),WHO,543,27/12/2018,http://www.who.int/ebola/situation
+7,Democratic Republic of the Congo,COD,Ebola Deaths (since 4 Apr 2018),WHO,357,27/12/2018,http://www.who.int/ebola/situation
+7,Democratic Republic of the Congo,COD,Total Cholera Cases (Cumulative per year),WHO,29882,09/12/2018,https://m.reliefweb.int/report/2934454
+7,Democratic Republic of the Congo,COD,Cholera Deaths (Cumulative per year),WHO,975,09/12/2018,https://m.reliefweb.int/report/2934454
+7,Democratic Republic of the Congo,COD,Total Measles Cases (Cumulative per year),WHO,67072,09/12/2018,https://m.reliefweb.int/report/2934454
+7,Democratic Republic of the Congo,COD,Confirmed Measles Cases (Cumulative per year),WHO,842,09/12/2018,https://m.reliefweb.int/report/2934454
+7,Democratic Republic of the Congo,COD,Measles Deaths (Cumulative per year),WHO,901,09/12/2018,https://m.reliefweb.int/report/2934454
+7,Democratic Republic of the Congo,COD,Returned People (per month),OCHA,27000,31/12/2017,http://m.reliefweb.int/report/2454874
+7,Democratic Republic of the Congo,COD,"KKA Incidents against Aid Workers (Killed, Kidnapped and Arrested per year)",Insecurity Insight,34,31/10/2018,https://m.reliefweb.int/report/2879178
+7,Democratic Republic of the Congo,COD,Aid Workers Killed (per year),Insecurity Insight,4,31/10/2018,https://m.reliefweb.int/report/2879178
+7,Democratic Republic of the Congo,COD,Aid Workers Kidnapped (per year),Insecurity Insight,29,31/10/2018,https://m.reliefweb.int/report/2879178
+7,Democratic Republic of the Congo,COD,Aid Workers Arrested (per year),Insecurity Insight,1,31/10/2018,https://m.reliefweb.int/report/2879178
+7,Democratic Republic of the Congo,COD,Children with Severe Acute Malnutrition,UNICEF,2000000,31/05/2018,https://m.reliefweb.int/report/2714049
+7,Democratic Republic of the Congo,COD,People Received WFP Food Assistance (per month),WFP,1000000,31/10/2018,https://m.reliefweb.int/report/2897238
+7,Democratic Republic of the Congo,COD,New IDPs by Conflict (per year),IDMC,2166000,31/12/2017,https://m.reliefweb.int/report/2603634
+7,Democratic Republic of the Congo,COD,New IDPs by Natural Disasters (per year),IDMC,27000,31/12/2017,https://m.reliefweb.int/report/2603634
+8,Ethiopia,ETH,People in Need of Food Assistance,OCHA,8000000,04/12/2018,https://m.reliefweb.int/report/2900688
+8,Ethiopia,ETH,People in Need of Non-Food Assistance,OCHA,9450000,09/10/2018,https://m.reliefweb.int/report/2822274
+8,Ethiopia,ETH,People Targeted for Food Assistance,OCHA,8000000,04/12/2018,https://m.reliefweb.int/report/2900688
+8,Ethiopia,ETH,People Targeted for Non-Food Assistance,OCHA,9450000,09/10/2018,https://m.reliefweb.int/report/2822274
+8,Ethiopia,ETH,Children in Need,UNICEF,4300000,31/08/2018,https://m.reliefweb.int/report/2801159
+8,Ethiopia,ETH,Conflict Affected IDPs,IOM,1472209,31/10/2018,https://m.reliefweb.int/report/2877958
+8,Ethiopia,ETH,Climate Induced IDPs,IOM,531001,31/10/2018,https://m.reliefweb.int/report/2877958
+8,Ethiopia,ETH,IDPs by Other Factors,IOM,72068,31/10/2018,https://m.reliefweb.int/report/2877958
+8,Ethiopia,ETH,IDPs by the Gedeo-West Guji Violence,IOM,958175,27/08/2018,https://m.reliefweb.int/report/2761774
+8,Ethiopia,ETH,People Displaced by Inter-Communal Conflict in Somali Region,OCHA,141410,17/08/2018,https://m.reliefweb.int/report/2751299
+8,Ethiopia,ETH,Refugees & Asylum-Seekers in Ethiopia,UNHCR,905831,31/10/2018,https://m.reliefweb.int/report/2885453
+8,Ethiopia,ETH,Refugees & Asylum-Seekers in Ethiopia (per year),UNHCR,905831,31/08/2018,https://m.reliefweb.int/report/2786794
+8,Ethiopia,ETH,Refugee & Asylum-Seeker Arrivals in Ethiopia (Cumulative per year),UNHCR,36135,31/08/2018,https://m.reliefweb.int/report/2786794
+8,Ethiopia,ETH,Refugee & Asylum-Seeker Arrivals in Ethiopia (per month),UNHCR,2032,31/07/2018,https://m.reliefweb.int/report/2742009
+8,Ethiopia,ETH,S. Sudanese Refugees & Asylum-Seekers in Ethiopia,UNHCR,422240,30/09/2018,https://m.reliefweb.int/report/2899668
+8,Ethiopia,ETH,S. Sudanese Arrivals in Ethiopia (Cumulative per year),UNHCR,19770,30/09/2018,https://m.reliefweb.int/report/2899668
+8,Ethiopia,ETH,S. Sudanese Refugees in Gambella,UNHCR,423888,31/05/2018,https://m.reliefweb.int/report/2642644
+8,Ethiopia,ETH,S. Sudanese Refugee Arrivals in Gambella (per month),UNHCR,1841,31/05/2018,https://m.reliefweb.int/report/2642644
+8,Ethiopia,ETH,S. Sudanese Refugee Arrivals in Gambella (per year),UNHCR,16607,31/05/2018,https://m.reliefweb.int/report/2642644
+8,Ethiopia,ETH,Somali Refugees & Asylum-Seekers in Ethiopia,UNHCR,257283,30/09/2018,https://m.reliefweb.int/report/2852678
+8,Ethiopia,ETH,Eritrean Refugees & Asylum-Seekers in Ethiopia,UNHCR,173879,31/08/2018,https://m.reliefweb.int/report/2786794
+8,Ethiopia,ETH,Eritreal Refugees Registered (since 12 Sep 2018),UNHCR,14107,20/10/2018,https://m.reliefweb.int/report/2844833
+8,Ethiopia,ETH,Sudanese Refugees and Asylum-seekers in Ethiopia,UNHCR,44620,31/08/2018,https://m.reliefweb.int/report/2786794
+8,Ethiopia,ETH,Yemeni Refugees and Asylum-seekers in Ethiopia,UNHCR,1891,31/08/2018,https://m.reliefweb.int/report/2786794
+8,Ethiopia,ETH,Children in Need of Treatment for Severe Acute Malnutrition,UNICEF,370000,31/10/2018,https://m.reliefweb.int/report/2880743
+8,Ethiopia,ETH,New IDPs by Conflict (per year),IDMC,725000,31/12/2017,https://m.reliefweb.int/report/2603634
+8,Ethiopia,ETH,New IDPs by Natural Disasters (per year),IDMC,434000,31/12/2017,https://m.reliefweb.int/report/2603634
+8,Ethiopia,ETH,People Received WFP Food Assistance (per month),WFP,3600000,30/09/2018,https://m.reliefweb.int/report/2860128
+9,Haiti,HTI,People in Need,OCHA,1500000,04/12/2018,https://m.reliefweb.int/report/2900688
+9,Haiti,HTI,People Targeted for Assistance,OCHA,1100000,04/12/2018,https://m.reliefweb.int/report/2900688
+9,Haiti,HTI,Children in Need,UNICEF,779000,03/01/2018,https://m.reliefweb.int/report/2399259
+9,Haiti,HTI,Cholera Cases per month,OCHA,708,31/05/2018,https://m.reliefweb.int/report/2685114
+9,Haiti,HTI,Cholera Deaths per month,OCHA,8,31/05/2018,https://m.reliefweb.int/report/2685114
+9,Haiti,HTI,Cholera Cases (Cumulative since Oct 2010),OCHA,819000,31/05/2018,https://m.reliefweb.int/report/2685114
+9,Haiti,HTI,IDPs due to 2010 Earthquake,IOM,37546,31/03/2018,https://m.reliefweb.int/report/2735669
+9,Haiti,HTI,New IDPs by Natural Disasters (per year),IDMC,15000,31/12/2017,https://m.reliefweb.int/report/2603634
+10,Iraq,IRQ,People in Need,OCHA,6700000,04/12/2018,https://m.reliefweb.int/report/2900688
+10,Iraq,IRQ,People Targeted for Assistance,OCHA,1800000,04/12/2018,https://m.reliefweb.int/report/2900688
+10,Iraq,IRQ,Children in Need,UNICEF,4100000,03/01/2018,https://m.reliefweb.int/report/2438749
+10,Iraq,IRQ,IDPs,IOM,1866594,31/10/2018,https://m.reliefweb.int/report/2903583
+10,Iraq,IRQ,Returnees,IOM,4113624,31/10/2018,https://m.reliefweb.int/report/2903583
+10,Iraq,IRQ,IDPs in Ninewa Governorate,IOM,584520,31/10/2018,https://m.reliefweb.int/report/2903583
+10,Iraq,IRQ,IDPs in Dahuk Governorate,IOM,347232,31/10/2018,https://m.reliefweb.int/report/2903583
+10,Iraq,IRQ,IDPs in Erbil Governorate,IOM,213402,31/10/2018,https://m.reliefweb.int/report/2903583
+10,Iraq,IRQ,IDPs in Salah Al-Din Governorate,IOM,151920,31/10/2018,https://m.reliefweb.int/report/2903583
+10,Iraq,IRQ,Iraqi Refugees in Jordan,UNHCR,67237,31/10/2018,https://m.reliefweb.int/report/2860013
+10,Iraq,IRQ,Iraqi Refugees in Turkey,UNHCR,142000,31/10/2018,https://m.reliefweb.int/report/2873883
+10,Iraq,IRQ,Syrian Refugees in Iraq,UNHCR,252772,30/11/2018,https://m.reliefweb.int/report/2912348
+10,Iraq,IRQ,Non-Syrian Refugees in Iraq,UNHCR,44325,31/10/2018,https://m.reliefweb.int/report/2895453
+10,Iraq,IRQ,Casualty Figures: Civilians Killed (per month),UNAMI,41,30/11/2018,https://m.reliefweb.int/report/2898688
+10,Iraq,IRQ,Casualty Figures: Civilians Injured (per month),UNAMI,73,30/11/2018,https://m.reliefweb.int/report/2898688
+10,Iraq,IRQ,People in Food Crisis/Emergency (IPC phase 3+),WFP,3200000,31/12/2017,https://m.reliefweb.int/report/2417944
+10,Iraq,IRQ,"KKA Incidents against Aid Workers (Killed, Kidnapped and Arrested per year)",Insecurity Insight,0,31/10/2018,https://m.reliefweb.int/report/2879178
+10,Iraq,IRQ,Aid Workers Killed (per year),Insecurity Insight,0,31/10/2018,https://m.reliefweb.int/report/2879178
+10,Iraq,IRQ,Aid Workers Kidnapped (per year),Insecurity Insight,0,31/10/2018,https://m.reliefweb.int/report/2879178
+10,Iraq,IRQ,Aid Workers Arrested (per year),Insecurity Insight,0,31/10/2018,https://m.reliefweb.int/report/2879178
+10,Iraq,IRQ,People Received WFP Food Assistance (per month),WFP,316400,31/10/2018,https://m.reliefweb.int/report/2897323
+10,Iraq,IRQ,New IDPs by Conflict (per year),IDMC,1379000,31/12/2017,https://m.reliefweb.int/report/2603634
+10,Iraq,IRQ,New IDPs by Natural Disasters (per year),IDMC,3900,31/12/2017,https://m.reliefweb.int/report/2603634
+11,Kenya,KEN,People in Need,OCHA,5600000,07/09/2017,http://m.reliefweb.int/report/2206749
+11,Kenya,KEN,People Targeted for Assistance,OCHA,1900000,07/09/2017,http://m.reliefweb.int/report/2206749
+11,Kenya,KEN,Children in Need,UNICEF,1800000,27/12/2017,https://m.reliefweb.int/report/2400909
+11,Kenya,KEN,Refugees & Asylum-Seekers in Kenya,UNHCR,468731,31/10/2018,https://m.reliefweb.int/report/2885453
+11,Kenya,KEN,Somali Refugees & Asylum-Seekers in Kenya,UNHCR,256300,30/09/2018,https://m.reliefweb.int/report/2852678
+11,Kenya,KEN,S. Sudanese Refugees & Asylum-Seekers in Kenya,UNHCR,114862,30/09/2018,https://m.reliefweb.int/report/2873948
+11,Kenya,KEN,S. Sudanese Arrivals in Kenya (per year),UNHCR,6109,30/09/2018,https://m.reliefweb.int/report/2899668
+11,Kenya,KEN,DRC Refugees & Asylum-Seekers in Kenya,UNHCR,40709,31/10/2018,https://m.reliefweb.int/report/2878188
+11,Kenya,KEN,Ethiopian Refugees & Asylum-Seekers in Kenya,UNHCR,31443,31/07/2018,https://m.reliefweb.int/report/2577639
+11,Kenya,KEN,Burundian Refugees & Asylum seekers in Kenya,UNHCR,13165,31/07/2018,https://m.reliefweb.int/report/2747399
+11,Kenya,KEN,Sudanese Refugees & Asylum-Seekers in Kenya,UNHCR,10106,31/07/2018,https://m.reliefweb.int/report/2747399
+11,Kenya,KEN,Kakuma Camp Refugee Population,UNHCR,149076,31/12/2018,https://m.reliefweb.int/report/2934989
+11,Kenya,KEN,Kakuma Camp New Refugee Arrival Registrations (per year),UNHCR,9880,31/12/2018,https://m.reliefweb.int/report/2935009
+11,Kenya,KEN,Kalobeyei Camp Refugee Population,UNHCR,38273,31/12/2018,https://m.reliefweb.int/report/2934994
+11,Kenya,KEN,Dadaab Camps Refugee Population,UNHCR,209606,31/07/2018,https://m.reliefweb.int/report/2747399
+11,Kenya,KEN,Children Under 5 in Need of SAM Treatment,UNICEF,85105,31/08/2018,https://m.reliefweb.int/report/2889923
+11,Kenya,KEN,New IDPs by Conflict (per year),IDMC,24000,31/12/2017,https://m.reliefweb.int/report/2603634
+11,Kenya,KEN,New IDPs by Natural Disasters (per year),IDMC,35000,31/12/2017,https://m.reliefweb.int/report/2603634
+12,Libya,LBY,People in Need,OCHA,823000,04/12/2018,https://m.reliefweb.int/report/2900688
+12,Libya,LBY,People Targeted for Assistance,OCHA,552000,04/12/2018,https://m.reliefweb.int/report/2900688
+12,Libya,LBY,Children in Need,UNICEF,378000,03/01/2018,https://m.reliefweb.int/report/2438669
+12,Libya,LBY,Registered Refugees & Asylum-Seekers in Libya,UNHCR,57664,30/11/2018,https://m.reliefweb.int/report/2903683
+12,Libya,LBY,IDPs,IOM,187423,31/10/2018,https://m.reliefweb.int/report/2900238
+12,Libya,LBY,Returnees,IOM,403978,31/10/2018,https://m.reliefweb.int/report/2900238
+12,Libya,LBY,Migrants in Libya,IOM,669176,31/08/2018,https://m.reliefweb.int/report/2814974
+12,Libya,LBY,Civilian Casualties: Deaths (per month),UNSMIL,8,30/09/2018,https://m.reliefweb.int/report/2858748
+12,Libya,LBY,Civilian Casualties: Injuries (per month),UNSMIL,2,30/09/2018,https://m.reliefweb.int/report/2858748
+12,Libya,LBY,People that Lost their Lives in Libyan Waters (per month),UNHCR,0,30/11/2018,https://m.reliefweb.int/report/2903678
+12,Libya,LBY,People Rescued/Intercepted at Sea Along the Libyan Coast (per month),UNHCR,546,30/11/2018,https://m.reliefweb.int/report/2903678
+12,Libya,LBY,Maritime Incidents in Libyan Coast: Rescued (per year),IOM,4964,30/04/2018,https://m.reliefweb.int/report/2586134
+12,Libya,LBY,People Assisted through WFP Food Assistance (per month),WFP,95100,31/10/2018,https://m.reliefweb.int/report/2897333
+12,Libya,LBY,Maritime Incidents: Deaths along the Central Mediterranean route (per year),IOM,370,30/04/2018,https://m.reliefweb.int/report/2586134
+12,Libya,LBY,Maritime Incidents: Arrivals to Italy through the Central Mediterranean route (per year),IOM,9467,30/04/2018,https://m.reliefweb.int/report/2586134
+12,Libya,LBY,New IDPs by Conflict (per year),IDMC,29000,31/12/2017,https://m.reliefweb.int/report/2603634
+13,Mali,MLI,People in Need,OCHA,3200000,04/12/2018,https://m.reliefweb.int/report/2900688
+13,Mali,MLI,People Targeted for Assistance,OCHA,2300000,04/12/2018,https://m.reliefweb.int/report/2900688
+13,Mali,MLI,Children in Need,UNICEF,2400000,02/07/2018,https://m.reliefweb.int/report/2801234
+13,Mali,MLI,"Malian Refugees in Burkina Faso, Mauritania and Niger",UNHCR,137852,30/11/2018,https://m.reliefweb.int/report/2932819
+13,Mali,MLI,Malian Refugees in Niger,Government of Niger,57300,30/11/2018,https://m.reliefweb.int/report/2905543
+13,Mali,MLI,Malian Refugees in Mauritania,UNHCR,55866,30/11/2018,https://m.reliefweb.int/report/2932819
+13,Mali,MLI,Malian Refugees in Burkina Faso,UNHCR,24686,30/11/2018,https://m.reliefweb.int/report/2931909
+13,Mali,MLI,IDPs,IOM,109892,30/11/2018,https://m.reliefweb.int/report/2932819
+13,Mali,MLI,Malian Refugee Returnees,Government of Mali,69390,31/10/2018,https://m.reliefweb.int/report/2891268
+13,Mali,MLI,Refugees in Mali,Government of Mali,25468,30/11/2018,https://m.reliefweb.int/report/2932819
+13,Mali,MLI,IDP Returnees,UNHCR,526505,31/07/2018,https://m.reliefweb.int/report/2755264
+13,Mali,MLI,Closed Schools due to Insecurity,Education Cluster,750,31/05/2018,https://m.reliefweb.int/report/2668719
+13,Mali,MLI,Access Constraints (per year),OCHA,129,31/08/2018,https://m.reliefweb.int/report/2773374
+13,Mali,MLI,Civilian Victims of IEDs (per year),UNMAS,60,07/03/2018,https://m.reliefweb.int/report/2521179
+13,Mali,MLI,Civilian Victims of ERW (per year),OCHA,23,31/12/2017,https://m.reliefweb.int/report/2521179
+13,Mali,MLI,People in Food Crisis/Emergency (IPC phase 3+),FSC,291000,31/12/2017,https://m.reliefweb.int/report/2417944
+13,Mali,MLI,"KKA Incidents against Aid Workers (Killed, Kidnapped and Arrested per year)",Insecurity Insight,8,31/10/2018,https://m.reliefweb.int/report/2879178
+13,Mali,MLI,Aid Workers Killed (per year),Insecurity Insight,1,31/10/2018,https://m.reliefweb.int/report/2879178
+13,Mali,MLI,Aid Workers Kidnapped (per year),Insecurity Insight,6,31/10/2018,https://m.reliefweb.int/report/2879178
+13,Mali,MLI,Aid Workers Arrested (per year),Insecurity Insight,1,31/10/2018,https://m.reliefweb.int/report/2879178
+13,Mali,MLI,People Received WFP Food Assistance (per month),WFP,352544,30/04/2018,https://m.reliefweb.int/report/2633549
+13,Mali,MLI,New IDPs by Conflict (per year),IDMC,35000,31/12/2017,https://m.reliefweb.int/report/2603634
+13,Mali,MLI,New IDPs by Natural Disasters (per year),IDMC,6800,31/12/2017,https://m.reliefweb.int/report/2603634
+14,Myanmar,MMR,People in Need,OCHA,941000,04/12/2018,https://m.reliefweb.int/report/2900688
+14,Myanmar,MMR,People Targeted for Assistance,OCHA,941000,04/12/2018,https://m.reliefweb.int/report/2900688
+14,Myanmar,MMR,Children in Need,UNICEF,319000,30/01/2018,https://m.reliefweb.int/report/2438694
+14,Myanmar,MMR,IDPs in Kachin & Northern Shan States,CCCM Cluster,105854,31/10/2018,https://m.reliefweb.int/report/2892948
+14,Myanmar,MMR,IDPs in Rakhine State,UNHCR,128169,31/10/2018,https://m.reliefweb.int/report/2889038
+14,Myanmar,MMR,IDP Returnees,UNHCR,11081,28/09/2018,https://m.reliefweb.int/report/2835628
+14,Myanmar,MMR,Myanmar Refugees in Thailand,UNHCR,97356,31/07/2018,https://m.reliefweb.int/report/2734069
+14,Myanmar,MMR,Refugee Returnees (since Jun 2013),UNHCR,3817,28/09/2018,https://m.reliefweb.int/report/2835628
+14,Myanmar,MMR,People Assisted with WFP Food Assistance (per month),WFP,619562,31/10/2018,https://m.reliefweb.int/report/2904948
+14,Myanmar,MMR,People Displaced by Floods,OCHA,268438,01/10/2018,https://m.reliefweb.int/report/2833443
+14,Myanmar,MMR,New IDPs by Conflict (per year),IDMC,57000,31/12/2017,https://m.reliefweb.int/report/2603634
+14,Myanmar,MMR,New IDPs by Natural Disasters (per year),IDMC,351000,31/12/2017,https://m.reliefweb.int/report/2603634
+15,Niger,NER,People in Need,OCHA,2300000,04/12/2018,https://m.reliefweb.int/report/2900688
+15,Niger,NER,People Targeted for Assistance,OCHA,1700000,04/12/2018,https://m.reliefweb.int/report/2900688
+15,Niger,NER,Children in Need,UNICEF,1200000,07/01/2018,https://m.reliefweb.int/report/2438929
+15,Niger,NER,People Living in Lake Chad Basin Crisis Area,OCHA,704000,22/10/2018,https://m.reliefweb.int/report/2843698
+15,Niger,NER,Children with Severe Acute Malnutrition in Lake Chad Basin Crisis Area,OCHA,16000,22/10/2018,https://m.reliefweb.int/report/2843698
+15,Niger,NER,People in Food Crisis/Emergency (IPC phase 3+) in Lake Chad Basin Crisis Area,OCHA,408000,22/10/2018,https://m.reliefweb.int/report/2843698
+15,Niger,NER,Malian Refugees in Niger,Government of Niger,57300,30/11/2018,https://m.reliefweb.int/report/2905543
+15,Niger,NER,Nigerian Refugees in Niger,UNHCR,118868,30/06/2018,https://m.reliefweb.int/report/2692479
+15,Niger,NER,IDPs,Government of Niger,122046,30/06/2018,https://m.reliefweb.int/report/2692479
+15,Niger,NER,Estimated Children IDPs,UNICEF,69393,31/07/2018,https://m.reliefweb.int/report/2834968
+15,Niger,NER,Children Affected by Severe Acute Malnutrition,UNICEF,380166,31/10/2018,https://m.reliefweb.int/report/2916718
+15,Niger,NER,Total Cholera Cases (since Jul 2018),WHO,3824,16/12/2018,https://m.reliefweb.int/report/2934454
+15,Niger,NER,Cholera Confirmed Cases (since Jul 2018),WHO,43,16/12/2018,https://m.reliefweb.int/report/2934454
+15,Niger,NER,Cholera Deaths (since Jul 2018),WHO,78,16/12/2018,https://m.reliefweb.int/report/2934454
+15,Niger,NER,Attacks & Security Incidents Related to Boko Haram in Diffa (per year),OCHA,94,31/08/2018,https://m.reliefweb.int/report/2795434
+15,Niger,NER,People Received WFP Food Assistance (per month),WFP,2717434,30/06/2018,https://m.reliefweb.int/report/2717434
+15,Niger,NER,New IDPs by Conflict (per year),IDMC,40000,31/12/2017,https://m.reliefweb.int/report/2603634
+15,Niger,NER,New IDPs by Natural Disasters (per year),IDMC,189000,31/12/2017,https://m.reliefweb.int/report/2603634
+16,Nigeria,NGA,People in Need,OCHA,7100000,04/12/2018,https://m.reliefweb.int/report/2900688
+16,Nigeria,NGA,People Targeted for Assistance,OCHA,6200000,04/12/2018,https://m.reliefweb.int/report/2900688
+16,Nigeria,NGA,Children in Need,UNICEF,4300000,31/08/2018,https://m.reliefweb.int/report/2801134
+16,Nigeria,NGA,People in Food Crisis/Emergency (IPC phase 3+),FAO,2454320,30/11/2018,https://m.reliefweb.int/report/2912908
+16,Nigeria,NGA,Northeast Nigeria: People in Food Crisis/Emergency (IPC phase 3+),FAO,1712103,30/11/2018,https://m.reliefweb.int/report/2912908
+16,Nigeria,NGA,IDPs,IOM,1926748,06/08/2018,https://m.reliefweb.int/report/2773744
+16,Nigeria,NGA,Returnees since August 2015,IOM,1580093,06/08/2018,https://m.reliefweb.int/report/2773744
+16,Nigeria,NGA,Nigerian Refugees in the Region,UNHCR,227694,31/08/2018,https://m.reliefweb.int/report/2792234
+16,Nigeria,NGA,Nigerian Refugees in Cameroon,UNHCR,101404,31/10/2018,https://m.reliefweb.int/report/2878513
+16,Nigeria,NGA,Nigerian Refugees & Asylum-Seekers in Chad,UNHCR,11298,31/10/2018,https://m.reliefweb.int/report/2869263
+16,Nigeria,NGA,Nigerian Refugees in Niger,UNHCR,118868,30/06/2018,https://m.reliefweb.int/report/2692479
+16,Nigeria,NGA,Cameroonian Refugees in Nigeria,UNHCR,32601,30/11/2018,https://m.reliefweb.int/report/2929739
+16,Nigeria,NGA,Total Nationwide Cholera Cases (Cumulative per year),WHO,42466,28/10/2018,https://m.reliefweb.int/report/2881473
+16,Nigeria,NGA,Total Nationwide Cholera Deaths (Cumulative per year),WHO,830,28/10/2018,https://m.reliefweb.int/report/2881473
+16,Nigeria,NGA,Total Measles Cases (Cumulative per year),WHO,15723,11/11/2018,https://m.reliefweb.int/report/2920023
+16,Nigeria,NGA,Measles Confirmed Cases (Cumulative per year),WHO,1110,11/11/2018,https://m.reliefweb.int/report/2920023
+16,Nigeria,NGA,Measles Deaths (Cumulative per year),WHO,123,11/11/2018,https://m.reliefweb.int/report/2920023
+16,Nigeria,NGA,Total Yellow Fever Cases (Cumulative),WHO,3902,16/12/2018,https://m.reliefweb.int/report/2934839
+16,Nigeria,NGA,Yellow Fever Confirmed Cases (Cumulative),WHO,78,16/12/2018,https://m.reliefweb.int/report/2934839
+16,Nigeria,NGA,Yellow Fever Deaths (Cumulative),WHO,73,16/12/2018,https://m.reliefweb.int/report/2934839
+16,Nigeria,NGA,People Living in Lake Chad Basin Crisis Area,OCHA,12000000,22/10/2018,https://m.reliefweb.int/report/2843698
+16,Nigeria,NGA,Children with Severe Acute Malnutrition in Lake Chad Basin Crisis Area,OCHA,439000,22/10/2018,https://m.reliefweb.int/report/2843698
+16,Nigeria,NGA,People in Food Crisis/Emergency (IPC phase 3+) in Lake Chad Basin Crisis Area,OCHA,3000000,22/10/2018,https://m.reliefweb.int/report/2843698
+16,Nigeria,NGA,"KKA Incidents against Aid Workers (Killed, Kidnapped and Arrested per year)",Insecurity Insight,8,31/10/2018,https://m.reliefweb.int/report/2879178
+16,Nigeria,NGA,Aid Workers Killed (per year),Insecurity Insight,5,31/10/2018,https://m.reliefweb.int/report/2879178
+16,Nigeria,NGA,Aid Workers Kidnapped (per year),Insecurity Insight,3,31/10/2018,https://m.reliefweb.int/report/2879178
+16,Nigeria,NGA,Aid Workers Arrested (per month),Insecurity Insight,0,31/10/2018,https://m.reliefweb.int/report/2879178
+16,Nigeria,NGA,People Received WFP Food Assistance (per month),WFP,698669,31/10/2018,https://m.reliefweb.int/report/2897248
+16,Nigeria,NGA,New IDPs by Conflict (per year),IDMC,279000,31/12/2017,https://m.reliefweb.int/report/2603634
+16,Nigeria,NGA,New IDPs by Natural Disasters (per year),IDMC,122000,31/12/2017,https://m.reliefweb.int/report/2603634
+17,occupied Palestinian territory,PSE,People in Need,OCHA,2500000,04/12/2018,https://m.reliefweb.int/report/2900688
+17,occupied Palestinian territory,PSE,People Targeted for Assistance,OCHA,1400000,04/12/2018,https://m.reliefweb.int/report/2900688
+17,occupied Palestinian territory,PSE,Children in Need,UNICEF,1100000,03/01/2018,https://m.reliefweb.int/report/2438774
+17,occupied Palestinian territory,PSE,People Displaced due to Demolitions (per year),OCHA,421,30/11/2018,http://www.ochaopt.org/content/monthly
+17,occupied Palestinian territory,PSE,Conflict-Related Palestinian Deaths (per year),OCHA,282,31/08/2018,http://www.ochaopt.org/content/monthly
+17,occupied Palestinian territory,PSE,Conflict-Related Palestinian Injuries (per year),OCHA,27008,31/08/2018,http://www.ochaopt.org/content/monthly
+17,occupied Palestinian territory,PSE,Palestinian Children Killed - Direct Conflict (per year),OCHA,38,2018-08-54,http://www.ochaopt.org/content/monthly
+17,occupied Palestinian territory,PSE,Palestinian Children Injured - Direct Conflict (per year),OCHA,4934,31/08/2018,http://www.ochaopt.org/content/monthly
+17,occupied Palestinian territory,PSE,Palestinian-owned Structures Demolished by the Israeli Authorities (per year),OCHA,409,31/08/2018,http://www.ochaopt.org/content/monthly
+17,occupied Palestinian territory,PSE,Truckloads of Goods Entering Gaza from Israel (per year),OCHA,85615,31/10/2018,https://m.reliefweb.int/report/2880978
+17,occupied Palestinian territory,PSE,IDPs in West Bank,UNRWA,238000,30/10/2016,http://m.reliefweb.int/report/1851144
+17,occupied Palestinian territory,PSE,IDPs in Gaza,OCHA,65000,20/12/2016,http://m.reliefweb.int/report/1828749
+17,occupied Palestinian territory,PSE,Palestinian Refugees in Syria,UNRWA,450000,09/01/2017,http://m.reliefweb.int/report/1851179
+17,occupied Palestinian territory,PSE,Internally Displaced Palestinian Refugees in Syria,UNRWA,280000,09/01/2017,http://m.reliefweb.int/report/1851179
+17,occupied Palestinian territory,PSE,Palestinian Refugees from Syria in Lebanon,UNRWA,32000,30/06/2018,https://m.reliefweb.int/report/2723959
+17,occupied Palestinian territory,PSE,Palestinian Refugees from Syria in Jordan,UNRWA,16779,09/01/2017,http://m.reliefweb.int/report/1851179
+17,occupied Palestinian territory,PSE,People Received WFP Food Assistance (per month),WFP,333959,31/10/2018,https://m.reliefweb.int/report/2889828
+17,occupied Palestinian territory,PSE,New IDPs by Conflict (per year),IDMC,700,31/12/2017,https://m.reliefweb.int/report/2603634
+17,occupied Palestinian territory,PSE,New IDPs by Natural Disasters (per year),IDMC,77,31/12/2017,https://m.reliefweb.int/report/2603634
+18,Somalia,SOM,People in Need,FSNAU,4200000,04/12/2018,https://m.reliefweb.int/report/2900688
+18,Somalia,SOM,People Targeted for Assistance,OCHA,3400000,04/12/2018,https://m.reliefweb.int/report/2900688
+18,Somalia,SOM,Children in Need,UNICEF,3000000,26/01/2018,https://m.reliefweb.int/report/1874889
+18,Somalia,SOM,People in Food Crisis/Emergency (IPC phase 3+),FSNAU,1500000,31/07/2018,https://m.reliefweb.int/report/2768609
+18,Somalia,SOM,Acutely Malnourished Children Below 5,FSNAU,294200,31/07/2018,https://m.reliefweb.int/report/2768609
+18,Somalia,SOM,IDPs,UNHCR,2600000,31/08/2018,https://m.reliefweb.int/report/2821304
+18,Somalia,SOM,Total Internal Displacements (per year),UNHCR,858265,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Total Internal Displacements (per month),UNHCR,26020,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Internally Displaced due to Drought (per year),UNHCR,251371,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Internally Displaced due to Drought (per month),UNHCR,15451,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Internally Displaced due to Conflict/Insecurity (per year),UNHCR,309388,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Internally Displaced due to Conflict/Insecurity (per month),UNHCR,9216,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Internally Displaced due to Floods (per year),UNHCR,280770,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Internally Displaced due to Floods (per month),UNHCR,53,31/10/2018,https://m.reliefweb.int/report/2867983
+18,Somalia,SOM,Somali Refugees in the Horn of Africa & Yemen,UNHCR,822343,30/09/2018,https://m.reliefweb.int/report/2852678
+18,Somalia,SOM,Somali Refugee Returnees (since 2014),UNHCR,123399,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Somali Refugee Returnees (per year),UNHCR,10897,30/09/2018,https://m.reliefweb.int/report/2852398
+18,Somalia,SOM,Somali Refugee Returnees from Kenya (cumulative since 2014),UNHCR,82840,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Somali Refugee Returnees from Kenya (per month),UNHCR,176,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Somali Refugee Returnees from Kenya (per year),UNHCR,7543,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Voluntary Assisted Returns from Dadaab (since Dec 2014),UNHCR,75744,15/04/2018,https://m.reliefweb.int/report/2577664
+18,Somalia,SOM,Somali Refugee Returnees from Yemen (since 2015),UNHCR,39401,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Somali Refugee Returnees from Yemen (per month),UNHCR,453,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Somali Refugee Returnees from Yemen (per year),UNHCR,4411,30/11/2018,https://m.reliefweb.int/report/2906763
+18,Somalia,SOM,Somali Refugees & Asylum-Seekers in Kenya,UNHCR,256300,30/09/2018,https://m.reliefweb.int/report/2852678
+18,Somalia,SOM,Somali Refugees & Asylum-Seekers in Ethiopia,UNHCR,257283,30/09/2018,https://m.reliefweb.int/report/2852678
+18,Somalia,SOM,Somali Refugees in Yemen,UNHCR,257107,30/09/2018,https://m.reliefweb.int/report/2852678
+18,Somalia,SOM,Somali Refugees Voluntary Repatriated from Yemen under the Assisted Spontaneous Return Programme (cumulative),UNHCR,2019,30/06/2018,https://m.reliefweb.int/report/2708474
+18,Somalia,SOM,Somali Refugees & Asylum-Seekers in Uganda,UNHCR,19180,24/10/2018,https://m.reliefweb.int/report/2852683
+18,Somalia,SOM,Somali Refugees in Djibouti,UNHCR,12345,30/09/2018,https://m.reliefweb.int/report/2852678
+18,Somalia,SOM,Somali Refugees in Eritrea,UNHCR,2115,30/09/2018,https://m.reliefweb.int/report/2852678
+18,Somalia,SOM,Registered Refugees & Asylum-Seekers in Somalia,UNHCR,32747,30/11/2018,https://m.reliefweb.int/report/2902798
+18,Somalia,SOM,Refugee & Asylum-Seeker Arrivals in Somalia (per year),UNHCR,2267,30/11/2018,https://m.reliefweb.int/report/2902798
+18,Somalia,SOM,Ethiopian Refugees & Asylum-Seekers in Somalia,UNHCR,19861,30/11/2018,https://m.reliefweb.int/report/2902798
+18,Somalia,SOM,Yemeni Refugees & Asylum-Seekers in Somalia,UNHCR,12350,30/11/2018,https://m.reliefweb.int/report/2902798
+18,Somalia,SOM,AWD/Cholera Cases (since Dec 2017),WHO,6637,02/12/2018,https://m.reliefweb.int/report/2914833
+18,Somalia,SOM,AWD/Cholera Deaths (since Dec 2017),WHO,45,02/12/2018,https://m.reliefweb.int/report/2914833
+18,Somalia,SOM,Measles Suspected Cases (cumulative),UNICEF,7929,25/11/2018,https://m.reliefweb.int/report/2899318
+18,Somalia,SOM,"KKA Incidents against Aid Workers (Killed, Kidnapped and Arrested per year)",Insecurity Insight,12,31/10/2018,https://m.reliefweb.int/report/2879178
+18,Somalia,SOM,Aid Workers Killed (per year),Insecurity Insight,5,31/10/2018,https://m.reliefweb.int/report/2879178
+18,Somalia,SOM,Aid Workers Kidnapped (per year),Insecurity Insight,6,31/10/2018,https://m.reliefweb.int/report/2879178
+18,Somalia,SOM,Aid Workers Arrested (per year),Insecurity Insight,1,31/10/2018,https://m.reliefweb.int/report/2879178
+18,Somalia,SOM,People Received WFP Food Assistance (per month),WFP,2100000,30/09/2018,https://m.reliefweb.int/report/2860123
+18,Somalia,SOM,New IDPs by Conflict (per year),IDMC,388000,31/12/2017,https://m.reliefweb.int/report/2603634
+18,Somalia,SOM,New IDPs by Natural Disasters (per year),IDMC,899000,31/12/2017,https://m.reliefweb.int/report/2603634
+19,South Sudan,SSD,People in Need,OCHA,7100000,13/12/2018,https://m.reliefweb.int/report/2914168
+19,South Sudan,SSD,People Targeted for Assistance,OCHA,5700000,13/12/2018,https://m.reliefweb.int/report/2914168
+19,South Sudan,SSD,Children in Need,UNICEF,4200000,27/12/2017,https://m.reliefweb.int/report/2400894
+19,South Sudan,SSD,People in Food Crisis/Emergency (IPC phase 3+),IPC,6062000,30/09/2018,https://m.reliefweb.int/report/2807384
+19,South Sudan,SSD,S. Sudanese Refugees in the Region,UNHCR,2469506,31/10/2018,https://m.reliefweb.int/report/2873948
+19,South Sudan,SSD,S. Sudanese Arrivals in the Region (Cumulative per year),UNHCR,96747,30/09/2018,https://m.reliefweb.int/report/2838273
+19,South Sudan,SSD,S. Sudanese Refugee Children in Neighbouring Countries,UNICEF,1570000,31/07/2018,https://m.reliefweb.int/report/2741884
+19,South Sudan,SSD,S. Sudanese Refugees in Uganda,UNHCR,770667,24/10/2018,https://m.reliefweb.int/report/2852683
+19,South Sudan,SSD,Total S. Sudanese Refugees in Sudan,UNHCR,764400,31/10/2018,https://m.reliefweb.int/report/2876618
+19,South Sudan,SSD,S. Sudanese Refugees in Sudan (since Dec 2013),UNHCR,412188,31/10/2018,https://m.reliefweb.int/report/2876618
+19,South Sudan,SSD,S. Sudanese Arrivals in Sudan (Cumulative per year),UNHCR,29699,30/09/2018,https://m.reliefweb.int/report/2840038
+19,South Sudan,SSD,S. Sudanese Refugee Children in Sudan (since Jan 2017),UNICEF,466284,31/10/2018,https://m.reliefweb.int/report/2884593
+19,South Sudan,SSD,S. Sudanese Refugees & Asylum-Seekers in Ethiopia,UNHCR,422240,30/09/2018,https://m.reliefweb.int/report/2899668
+19,South Sudan,SSD,S. Sudanese Arrivals in Ethiopia (Cumulative per year),UNHCR,19770,30/09/2018,https://m.reliefweb.int/report/2899668
+19,South Sudan,SSD,S. Sudanese Refugees in Gambella,UNHCR,423888,31/05/2018,https://m.reliefweb.int/report/2642644
+19,South Sudan,SSD,S. Sudanese Refugee Arrivals in Gambella (per month),UNHCR,1841,31/05/2018,https://m.reliefweb.int/report/2642644
+19,South Sudan,SSD,S. Sudanese Refugees & Asylum-Seekers in Kenya,UNHCR,114765,31/08/2018,https://m.reliefweb.int/report/2805899
+19,South Sudan,SSD,S. Sudanese Arrivals in Kenya (per year),UNHCR,6109,30/09/2018,https://m.reliefweb.int/report/2899668
+19,South Sudan,SSD,S. Sudanese Refugee Arrivals in Gambella (per year),UNHCR,16607,31/05/2018,https://m.reliefweb.int/report/2642644
+19,South Sudan,SSD,S. Sudanese Refugees in DRC,UNHCR,95438,30/11/2018,https://m.reliefweb.int/report/2913833
+19,South Sudan,SSD,S. Sudanese Arrivals in DRC (Cumulative per year),UNHCR,4969,30/09/2018,https://m.reliefweb.int/report/2899668
+19,South Sudan,SSD,S. Sudanese Refugees in Egypt,UNHCR,13616,30/09/2018,https://m.reliefweb.int/report/2834173
+19,South Sudan,SSD,S. Sudanese Refugees in CAR,UNHCR,2571,31/10/2018,https://m.reliefweb.int/report/2882088
+19,South Sudan,SSD,S. Sudanese Arrivals in CAR (Cumulative per year),UNHCR,323,30/09/2018,https://m.reliefweb.int/report/2899668
+19,South Sudan,SSD,IDPs,IOM,1840000,14/09/2018,https://m.reliefweb.int/report/2873948
+19,South Sudan,SSD,Civilians in UNMISS Protection Sites,UNMISS,194874,15/11/2018,https://m.reliefweb.int/report/2879968
+19,South Sudan,SSD,IDPs in Bentiu PoC,IOM,114652,15/11/2018,https://m.reliefweb.int/report/2879968
+19,South Sudan,SSD,Population in Wau PoC Area Adjacent to UNMISS,IOM,16505,15/11/2018,https://m.reliefweb.int/report/2879968
+19,South Sudan,SSD,Refugees in South Sudan,UNHCR,299123,31/10/2018,https://m.reliefweb.int/report/2893508
+19,South Sudan,SSD,Sudanese Refugees in South Sudan,UNHCR,277183,31/10/2018,https://m.reliefweb.int/report/2893508
+19,South Sudan,SSD,DRC Refugees in South Sudan,UNHCR,15683,31/10/2018,https://m.reliefweb.int/report/2878188
+19,South Sudan,SSD,Ethiopian Refugees in South Sudan,UNHCR,4168,31/10/2018,https://m.reliefweb.int/report/2893508
+19,South Sudan,SSD,CAR Refugees in South Sudan,UNHCR,1999,31/10/2018,https://m.reliefweb.int/report/2893508
+19,South Sudan,SSD,Humanitarian Access Incidents (per month),OCHA,65,30/09/2018,https://m.reliefweb.int/report/2832479
+19,South Sudan,SSD,"KKA Incidents against Aid Workers (Killed, Kidnapped and Arrested per year)",Insecurity Insight,104,31/10/2018,https://m.reliefweb.int/report/2879178
+19,South Sudan,SSD,Aid Workers Killed (per year),Insecurity Insight,17,31/10/2018,https://m.reliefweb.int/report/2879178
+19,South Sudan,SSD,Aid Workers Kidnapped (per year),Insecurity Insight,48,31/10/2018,https://m.reliefweb.int/report/2879178
+19,South Sudan,SSD,Aid Workers Arrested (per year),Insecurity Insight,39,31/10/2018,https://m.reliefweb.int/report/2879178
+19,South Sudan,SSD,People Received WFP Food Assistance (per month),WFP,2300000,31/10/2018,https://m.reliefweb.int/report/2897263
+19,South Sudan,SSD,New IDPs by Conflict (per year),IDMC,857000,31/12/2017,https://m.reliefweb.int/report/2603634
+19,South Sudan,SSD,New IDPs by Natural Disasters (per year),IDMC,75000,31/12/2017,https://m.reliefweb.int/report/2603634
+20,Sudan,SDN,People in Need,OCHA,5500000,04/12/2018,https://m.reliefweb.int/report/2900688
+20,Sudan,SDN,People Targeted for Assistance,OCHA,4300000,04/12/2018,https://m.reliefweb.int/report/2900688
+20,Sudan,SDN,Children in Need,UNICEF,2600000,30/06/2018,https://m.reliefweb.int/report/2801154
+20,Sudan,SDN,People in Food Crisis/Emergency (IPC Phase 3+),IPC,5500000,19/04/2018,https://m.reliefweb.int/report/2605994
+20,Sudan,SDN,Total S. Sudanese Refugees in Sudan,UNHCR,764400,31/10/2018,https://m.reliefweb.int/report/2876618
+20,Sudan,SDN,S. Sudanese Refugees in Sudan (since Dec 2013),UNHCR,412188,31/10/2018,https://m.reliefweb.int/report/2876618
+20,Sudan,SDN,S. Sudanese Refugee Arrivals (Cumulative per year),UNHCR,30420,31/10/2018,https://m.reliefweb.int/report/2876618
+20,Sudan,SDN,S. Sudanese Refugee Children in Sudan (since Jan 2017),UNICEF,466284,31/10/2018,https://m.reliefweb.int/report/2929769
+20,Sudan,SDN,Refugees of other Nationalities in Sudan,UNHCR,158959,31/08/2018,https://m.reliefweb.int/report/2929344
+20,Sudan,SDN,Sudanese Refugees in South Sudan,UNHCR,294776,30/11/2018,https://m.reliefweb.int/report/2915413
+20,Sudan,SDN,Sudanese Refugees & Asylum-Seekers in Chad,UNHCR,338591,30/11/2018,https://m.reliefweb.int/report/2909253
+20,Sudan,SDN,Sudanese Refugees & Asylum-Seekers in Ethiopia,UNHCR,44620,31/08/2018,https://m.reliefweb.int/report/2915788
+20,Sudan,SDN,Sudanese Refugees in Egypt,UNHCR,41016,30/11/2018,https://m.reliefweb.int/report/2908938
+20,Sudan,SDN,Sudanese Refugees & Asylum-Seekers in Kenya,UNHCR,10106,31/07/2018,https://m.reliefweb.int/report/2747399
+20,Sudan,SDN,Sudanese Refugees in Jordan,UNHCR,5885,15/12/2018,https://m.reliefweb.int/report/2920693
+20,Sudan,SDN,IDPs in Darfur,OCHA,1760000,01/02/2018,https://m.reliefweb.int/report/2486539
+20,Sudan,SDN,Refugees in Darfur,OCHA,300000,01/02/2018,https://m.reliefweb.int/report/2486539
+20,Sudan,SDN,Returnees in Darfur,OCHA,295710,01/02/2018,https://m.reliefweb.int/report/2486539
+20,Sudan,SDN,New IDPs by Conflict (per year),IDMC,17000,31/12/2017,https://m.reliefweb.int/report/2603634
+20,Sudan,SDN,New IDPs by Natural Disasters (per year),IDMC,54000,31/12/2017,https://m.reliefweb.int/report/2603634
+21,Syria,SYR,People in Need,OCHA,13000000,04/12/2018,https://m.reliefweb.int/report/2900688
+21,Syria,SYR,People Targeted for Assistance,OCHA,11200000,04/12/2018,https://m.reliefweb.int/report/2900688
+21,Syria,SYR,Children in Need,UNICEF,5300000,31/07/2018,https://m.reliefweb.int/report/2813544
+21,Syria,SYR,IDPs,OCHA,6200000,30/09/2018,https://m.reliefweb.int/report/2847143
+21,Syria,SYR,Registered Syrian Refugees in the Region,UNHCR,5658976,20/12/2018,https://data2.unhcr.org/en/situations/syria
+21,Syria,SYR,Registered Syrian Refugee Children,UNICEF,2543484,30/11/2018,https://m.reliefweb.int/report/2928484
+21,Syria,SYR,Syrian Refugees in Turkey,UNHCR,3618624,20/12/2018,https://data2.unhcr.org/en/situations/syria/location/113
+21,Syria,SYR,Syrian Refugees in Jordan,UNHCR,671148,09/12/2018,https://data2.unhcr.org/en/situations/syria/location/36
+21,Syria,SYR,Syrian Refugees in Zaatari Camp,UNHCR,78357,31/10/2018,https://m.reliefweb.int/report/2860078
+21,Syria,SYR,Syrian Refugees in Lebanon,UNHCR,950334,30/11/2018,https://data2.unhcr.org/en/situations/syria/location/71
+21,Syria,SYR,Syrian Refugees in Iraq,UNHCR,252772,30/11/2018,https://m.reliefweb.int/report/2912348
+21,Syria,SYR,Syrian Refugees in Egypt,UNHCR,131504,30/09/2018,https://m.reliefweb.int/report/2834173
+21,Syria,SYR,IDP Arrivals (per year),OCHA,1500000,31/10/2018,https://m.reliefweb.int/report/2890258
+21,Syria,SYR,IDP Arrivals in Northern Syria (per month),UNHCR,63051,30/09/2018,https://m.reliefweb.int/report/2871208
+21,Syria,SYR,IDP Departures from Northern Syria (per month),UNHCR,93269,30/09/2018,https://m.reliefweb.int/report/2871208
+21,Syria,SYR,IDP Spontaneous Returns (per month),OCHA,102267,30/11/2018,https://m.reliefweb.int/report/2931749
+21,Syria,SYR,People in Need in Hard-to-reach Areas,OCHA,1160000,29/10/2018,https://m.reliefweb.int/report/2854573
+21,Syria,SYR,IDP Arrivals (per month),OCHA,66934,30/11/2018,https://m.reliefweb.int/report/2931744
+21,Syria,SYR,Displacements in the Last 12 Months from Affected Areas of Northern and Southern Syria,UNHCR,1251192,31/07/2018,https://m.reliefweb.int/report/2736499
+21,Syria,SYR,People in Food Crisis/Emergency (IPC phase 3+),WFP,5494200,09/10/2018,https://m.reliefweb.int/report/2822659
+21,Syria,SYR,Total Attacks on Health Care (in 2018),WHO,137,31/10/2018,https://m.reliefweb.int/report/2889663
+21,Syria,SYR,Attacks on Health Care: Killed (in 2018),WHO,97,31/10/2018,https://m.reliefweb.int/report/2889663
+21,Syria,SYR,Attacks on Health Care: Injured (in 2018),WHO,169,31/10/2018,https://m.reliefweb.int/report/2889663
+21,Syria,SYR,"KKA Incidents against Aid Workers (Killed, Kidnapped and Arrested per year)",Insecurity Insight,84,31/10/2018,https://m.reliefweb.int/report/2879178
+21,Syria,SYR,Aid Workers Killed (per year),Insecurity Insight,67,31/10/2018,https://m.reliefweb.int/report/2879178
+21,Syria,SYR,Aid Workers Kidnapped (per year),Insecurity Insight,7,31/10/2018,https://m.reliefweb.int/report/2879178
+21,Syria,SYR,Aid Workers Arrested (per year),Insecurity Insight,10,31/10/2018,https://m.reliefweb.int/report/2879178
+21,Syria,SYR,People Received WFP Food Assistance (per month),WFP,3200000,31/10/2018,https://m.reliefweb.int/report/2897278
+21,Syria,SYR,Internally Displaced Palestinian Refugees in Syria,UNRWA,280000,09/01/2017,http://m.reliefweb.int/report/1851179
+21,Syria,SYR,New IDPs by Conflict (per year),IDMC,2911000,31/12/2017,https://m.reliefweb.int/report/2603634
+21,Syria,SYR,New IDPs by Natural Disasters (per year),IDMC,2300,31/12/2017,https://m.reliefweb.int/report/2603634
+22,Ukraine,UKR,People in Need,OCHA,3500000,04/12/2018,https://m.reliefweb.int/report/2900688
+22,Ukraine,UKR,People Targeted for Assistance,OCHA,2300000,04/12/2018,https://m.reliefweb.int/report/2900688
+22,Ukraine,UKR,Children in Need,UNICEF,500000,02/01/2018,https://m.reliefweb.int/report/2438734
+22,Ukraine,UKR,IDPs,Government of Ukraine,1492247,11/01/2018,https://m.reliefweb.int/report/2444269
+22,Ukraine,UKR,Children IDPs,Government of Ukraine,227912,11/01/2018,https://m.reliefweb.int/report/2444269
+22,Ukraine,UKR,Conflict-related Civilian Casualties (Killed and Injured per month),OHCHR,18,12/11/2018,https://m.reliefweb.int/report/2871443
+22,Ukraine,UKR,Conflict-related Civilians Killed per month,OHCHR,5,12/11/2018,https://m.reliefweb.int/report/2871443
+22,Ukraine,UKR,Conflict-related Civilian Injuries per month,OHCHR,13,12/11/2018,https://m.reliefweb.int/report/2871443
+22,Ukraine,UKR,Conflict-related Deaths (Cumulative),OHCHR,10334,15/05/2018,https://m.reliefweb.int/report/2661519
+22,Ukraine,UKR,Conflict-related Injuries (Cumulative),OHCHR,24901,15/05/2018,https://m.reliefweb.int/report/2661519
+22,Ukraine,UKR,Schools Damaged/Destroyed by the Conflict (per year),UNICEF,13,04/11/2018,https://m.reliefweb.int/report/2861013
+22,Ukraine,UKR,Schools Temporarily Closed due the Conflict (per year),UNICEF,43,04/11/2018,https://m.reliefweb.int/report/2861013
+22,Ukraine,UKR,People Received WFP Food Assistance (per month),WFP,17600,28/02/2018,https://m.reliefweb.int/report/2536219
+22,Ukraine,UKR,New IDPs by Conflict (per year),IDMC,21000,31/12/2017,https://m.reliefweb.int/report/2603634
+23,Yemen,YEM,People in Need,OCHA,24000000,04/12/2018,https://m.reliefweb.int/report/2900688
+23,Yemen,YEM,People Targeted for Assistance,OCHA,15000000,04/12/2018,https://m.reliefweb.int/report/2900688
+23,Yemen,YEM,Children in Need,UNICEF,11300000,31/03/2018,https://m.reliefweb.int/report/2801124
+23,Yemen,YEM,Cholera Suspected Cases (since 27 Apr 2017),WHO,1285405,11/11/2018,https://m.reliefweb.int/report/2908218
+23,Yemen,YEM,Cholera Deaths (since 27 Apr 2017),WHO,2601,11/11/2018,https://m.reliefweb.int/report/2908218
+23,Yemen,YEM,People in Food Crisis/Emergency (IPC phase 3+),IPC,15900000,07/12/2018,https://m.reliefweb.int/report/2907663
+23,Yemen,YEM,IDPs due to conflict or natural disaster since June 2018,IOM,532830,03/11/2018,https://m.reliefweb.int/report/2859448
+23,Yemen,YEM,Children Suffering from Severe Acute Malnutrition,UNICEF,400000,31/10/2018,https://m.reliefweb.int/report/2886693
+23,Yemen,YEM,IDPs since March 2015,IOM,2331264,30/06/2018,https://m.reliefweb.int/report/2804599
+23,Yemen,YEM,Returnees,UNHCR,1012464,30/06/2018,https://m.reliefweb.int/report/2804599
+23,Yemen,YEM,Individuals Displaced from Al Hudaydah,IOM,455040,06/11/2018,https://m.reliefweb.int/report/2870688
+23,Yemen,YEM,Refugees & Asylum-Seekers in Yemen,UNHCR,280000,09/11/2018,https://m.reliefweb.int/report/2869778
+23,Yemen,YEM,Somali Refugees in Yemen,UNHCR,257107,30/09/2018,https://m.reliefweb.int/report/2852678
+23,Yemen,YEM,Yemeni Refugees & Asylum-Seekers in Ethiopia,UNHCR,1891,30/09/2018,https://m.reliefweb.int/report/2832459
+23,Yemen,YEM,Yemeni Refugees & Asylum-Seekers in Somalia,UNHCR,12350,30/11/2018,https://m.reliefweb.int/report/2902798
+23,Yemen,YEM,Yemeni Refugees in Jordan,UNHCR,13228,31/10/2018,https://m.reliefweb.int/report/2860028
+23,Yemen,YEM,Women injured (since Dec 2017),UNHCR,11,31/01/2018,https://m.reliefweb.int/report/2489824
+23,Yemen,YEM,"KKA Incidents against Aid Workers (Killed, Kidnapped and Arrested per year)",Insecurity Insight,21,31/10/2018,https://m.reliefweb.int/report/2879178
+23,Yemen,YEM,Aid Workers Killed (per year),Insecurity Insight,5,31/10/2018,https://m.reliefweb.int/report/2879178
+23,Yemen,YEM,Aid Workers Kidnapped (per year),Insecurity Insight,14,31/10/2018,https://m.reliefweb.int/report/2879178
+23,Yemen,YEM,Aid Workers Arrested (per year),Insecurity Insight,2,31/10/2018,https://m.reliefweb.int/report/2879178
+23,Yemen,YEM,People Assisted through WFP Assistance (per month),WFP,7200000,30/11/2018,https://m.reliefweb.int/report/2897283
+23,Yemen,YEM,New IDPs by Conflict (per year),IDMC,160000,31/12/2017,https://m.reliefweb.int/report/2603634
+23,Yemen,YEM,New IDPs by Natural Disasters (per year),IDMC,13,31/12/2017,https://m.reliefweb.int/report/2603634

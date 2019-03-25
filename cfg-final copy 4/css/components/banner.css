@@ -1,0 +1,22 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/pattern.jpg);
+	background-size: cover;
+	background-position: left center;
+	padding: 120px 0px;
+	color: white;
+	margin-bottom: 10px;
+}
+
+.banner h1 {
+	color: white;
+	font-size: 50px;
+	padding-left: 15px;
+	}
+
+.banner h2 {
+	color: white; 
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 20px;
+}

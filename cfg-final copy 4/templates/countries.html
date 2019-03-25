@@ -1,0 +1,47 @@
+<html>
+<head>
+    <title>Crisis Mapping</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+<div class= "banner">
+	<div class = "container">
+    	<h1>Where are the World's Crises?</h1>
+    	<a href = "#apply-section" class="btn-blue"> Learn More </a>
+    </div>
+
+	<div class="container">
+		<h2> Why It Matters </h2>
+		<p> The number of armed conflicts in the 21st century has grown drastically, resulting in many being killed and record-shattering levels of forced displacement. These conflicts are not limited to a battlefield, rather they are bleeding into urban areas where civilians are increasingly bearing the risks of the battle. Being aware of where these conflicts are concentrated is the first step to advocating for more responsible social policies and humane immigration policies.</p>
+<div class = "container">
+<a href="{{ url_for('.new_crisis') }}"> Country </a>
+	{% with messages = get_flashed_messages() %}
+		{% if messages %}
+			<ul class=flashes>
+			{% for message in messages %}
+				<li>{{ message }}</li>
+			{% endfor %}
+		</ul>
+  	{% endif %}
+	{% endwith %}
+ 
+	{% from "_formhelpers.html" import render_field %}
+	<form method=post>
+  		<dl>
+   			{{ render_field(form.select) }}
+    		<p>
+   			{{ render_field(form.search) }}
+ 		</dl>
+  <p><input type=submit value=Search>
+	</form>
+
+	<div class="table">
+		{% block body %}
+		{{ data|safe }}
+    	{% endblock %}
+	</div>
+</div>
+</body>
+</html>
